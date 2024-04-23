@@ -10,7 +10,7 @@
     </head>
     <body>
         <div id="wrapper">
-            <div id="heafer">
+            <div id="header">
                 <h1>メッセージボード　アプリケーション</h1>
             </div>
             <div id="content">
